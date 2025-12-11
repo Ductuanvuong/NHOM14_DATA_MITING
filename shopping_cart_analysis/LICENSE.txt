@@ -1,0 +1,50 @@
+Custom License - Educational and Personal Use Only
+
+Copyright (c) 2025 Le Thi Thuy Trang
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. PERMITTED USES
+   Permission is hereby granted, free of charge, to any person obtaining a copy
+   of this software and associated documentation files (the "Software"), to use,
+   modify, and distribute the Software for:
+
+   a) Educational purposes (learning, research, academic projects)
+   b) Personal, non-commercial purposes
+   c) Portfolio demonstration (with proper attribution)
+
+2. RESTRICTIONS
+   The following uses are STRICTLY PROHIBITED without explicit written permission
+   from the copyright holder:
+
+   a) Commercial use, including but not limited to:
+      - Using the Software in commercial products or services
+      - Selling copies of the Software or derivative works
+      - Using the Software to generate revenue or profit
+
+   b) Distribution for commercial purposes
+   c) Sublicensing for commercial use
+
+3. ATTRIBUTION REQUIREMENTS
+   All copies or substantial portions of the Software must include:
+   - This copyright notice and license text
+   - Proper attribution to the original author
+   - Clear indication of any modifications made
+
+4. COMMERCIAL LICENSE
+   For commercial use, please contact the copyright holder at:
+   Email: [your-email@domain.com]
+   A separate commercial license agreement is required.
+
+5. DISCLAIMER
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+   THE SOFTWARE.
+
+6. TERMINATION
+   This license is automatically terminated if you violate any of the terms
+   and conditions set forth herein.
